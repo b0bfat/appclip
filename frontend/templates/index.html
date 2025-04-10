@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AppClip - Download de Vídeos</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>AppClip</h1>
+        <p>Cole o link do vídeo do YouTube abaixo:</p>
+        <form id="downloadForm">
+            <input type="text" id="videoUrl" placeholder="https://www.youtube.com/watch?v=..." required>
+            <br>
+            <button type="submit">Baixar Vídeo</button>
+        </form>
+        <div id="status"></div>
+    </div>
+
+    <script>
+        document.getElementById('downloadForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const url = document.getElementById('videoUrl').value;
+            const status = document.getElementById('status');
+            
+            status.textContent = 'Iniciando download...';
+            
+            try {
+                const response = await fetch('/download', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ url: url }),
+                });
+
+                if (response.ok) {
+                    const blob = await response.blob();
+                    const filename = response.headers.get('Content-Disposition')?.split('filename=')[1] || 'video.mp4';
+                    const link = document.createElement('a');
+                    link.href = URL.createObjectURL(blob);
+                    link.download = filename.replace(/"/g, '');
+                    link.click();
+                    status.textContent = 'Download concluído! Limpando arquivos...';
+                } else {
+                    const errorData = await response.json();
+                    status.textContent = errorData.error || 'Erro ao baixar o vídeo.';
+                }
+            } catch (error) {
+                status.textContent = 'Erro: ' + error.message;
+            } finally {
+                try {
+                    await fetch('/cleanup', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                    });
+                    status.textContent = status.textContent.includes('Download concluído') 
+                        ? 'Download concluído e arquivos limpos!' 
+                        : 'Erro no download, mas arquivos foram limpos.';
+                } catch (cleanupError) {
+                    status.textContent += ' Falha ao limpar arquivos: ' + cleanupError.message;
+                }
+            }
+        });
+    </script>
+</body>
+</html>
