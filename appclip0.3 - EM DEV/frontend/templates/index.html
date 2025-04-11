@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AppClip - Download de Vídeos</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>AppClip</h1>
+        <p>Cole o link do vídeo do YouTube abaixo:</p>
+        <form id="downloadForm">
+            <input type="text" id="videoUrl" placeholder="https://www.youtube.com/watch?v=..." required>
+            <button type="submit" id="downloadButton">Baixar Vídeo</button>
+        </form>
+        <div id="status"></div>
+        <div id="progress-container" style="display: none; margin-top: 20px;">
+            <div id="progress-bar"></div>
+        </div>
+    </div>
+
+    <!-- Incluir a biblioteca Socket.IO -->
+    <script src="https://cdn.jsdelivr.net/npm/socket.io-client@4/dist/socket.io.min.js"></script>
+    <script>
+        // Conectar ao WebSocket
+        const socket = io();
+
+        socket.on('connect', () => {
+            console.log('Conectado ao WebSocket. SID:', socket.id);
+        });
+
+        socket.on('progress', (data) => {
+            console.log('Evento de progresso recebido:', data);
+            const progress = data.progress || 0;
+            const progressBar = document.getElementById('progress-bar');
+            const progressContainer = document.getElementById('progress-container');
+            const status = document.getElementById('status');
+            progressContainer.style.display = 'block';
+            progressBar.style.width = `${progress}%`;
+
+            if (progress >= 100) {
+                status.textContent = 'Seu vídeo está pronto, aguarde mais um instante pois estamos preparando tudo para você salvá-lo';
+            } else {
+                status.textContent = `Progresso: ${Math.round(progress)}%`;
+            }
+        });
+
+        document.getElementById('downloadForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const url = document.getElementById('videoUrl').value;
+            const status = document.getElementById('status');
+            const progressContainer = document.getElementById('progress-container');
+            const downloadButton = document.getElementById('downloadButton');
+            
+            // Desabilitar o botão durante o download
+            downloadButton.disabled = true;
+            downloadButton.style.opacity = '0.5';
+            downloadButton.style.cursor = 'not-allowed';
+
+            status.textContent = 'Iniciando download...';
+            progressContainer.style.display = 'none';
+            
+            try {
+                console.log('Iniciando requisição /download com URL:', url);
+                const response = await fetch('/download', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ url: url, sid: socket.id }),
+                    signal: AbortSignal.timeout(14400000)  // 4 horas
+                });
+
+                console.log('Resposta recebida do /download:', response);
+                if (response.ok) {
+                    const blob = await response.blob();
+                    let filename = response.headers.get('Content-Disposition')?.split('filename=')[1]?.replace(/"/g, '') || 'video.mp4';
+                    if (!filename.toLowerCase().endsWith('.mp4')) {
+                        filename = filename + '.mp4';
+                    }
+
+                    const link = document.createElement('a');
+                    link.href = URL.createObjectURL(blob);
+                    link.download = filename;
+
+                    // Clicar no link para iniciar o download
+                    link.click();
+
+                    // Limpar arquivos e recarregar a página
+                    status.textContent = 'Download concluído! Limpando arquivos...';
+                    await fetch('/cleanup', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                    }).then(() => {
+                        console.log('Arquivos limpos com sucesso.');
+                        // Recarregar a página após 1 segundo
+                        setTimeout(() => {
+                            location.reload();
+                        }, 1000);
+                    }).catch(cleanupError => {
+                        console.error('Erro ao limpar arquivos:', cleanupError);
+                        status.textContent += ' Falha ao limpar arquivos: ' + cleanupError.message;
+                        // Recarregar a página mesmo em caso de erro
+                        setTimeout(() => {
+                            location.reload();
+                        }, 1000);
+                    });
+                } else {
+                    const errorData = await response.json();
+                    throw new Error(errorData.error || 'Erro ao baixar o vídeo.');
+                }
+            } catch (error) {
+                console.error('Erro na requisição /download:', error);
+                status.textContent = 'Erro: ' + error.message;
+                // Tentar limpar arquivos em caso de erro
+                try {
+                    console.log('Chamando a rota /cleanup devido a erro');
+                    await fetch('/cleanup', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                    });
+                    status.textContent = 'Erro no download, mas arquivos foram limpos.';
+                    // Recarregar a página mesmo em caso de erro
+                    setTimeout(() => {
+                        location.reload();
+                    }, 1000);
+                } catch (cleanupError) {
+                    console.error('Erro ao limpar arquivos:', cleanupError);
+                    status.textContent += ' Falha ao limpar arquivos: ' + cleanupError.message;
+                    // Recarregar a página mesmo em caso de erro
+                    setTimeout(() => {
+                        location.reload();
+                    }, 1000);
+                }
+            } finally {
+                // Reativar o botão após o processo (sucesso ou erro)
+                downloadButton.disabled = false;
+                downloadButton.style.opacity = '1';
+                downloadButton.style.cursor = 'pointer';
+            }
+        });
+    </script>
+</body>
+</html>

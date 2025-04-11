@@ -1,0 +1,644 @@
+2025-04-10 15:38:46,866 [INFO] 192.168.143.21 - - [10/Apr/2025 15:38:46] "GET /socket.io/?EIO=4&transport=polling&t=pby2537o HTTP/1.1" 200 -
+2025-04-10 15:38:46,918 [INFO] Cliente conectado: 2rPmswlz7BhowOrbAAAB
+2025-04-10 15:38:46,918 [INFO] 192.168.143.21 - - [10/Apr/2025 15:38:46] "POST /socket.io/?EIO=4&transport=polling&t=pby3eflb&sid=mevyTOfa5fEQ_CgKAAAA HTTP/1.1" 200 -
+2025-04-10 15:38:46,918 [INFO] 192.168.143.21 - - [10/Apr/2025 15:38:46] "GET /socket.io/?EIO=4&transport=polling&t=pby3f86g&sid=mevyTOfa5fEQ_CgKAAAA HTTP/1.1" 200 -
+2025-04-10 15:40:34,644 [INFO] 192.168.143.21 - - [10/Apr/2025 15:40:34] "GET / HTTP/1.1" 200 -
+2025-04-10 15:40:34,677 [INFO] Cliente desconectado: 2rPmswlz7BhowOrbAAAB
+2025-04-10 15:40:34,678 [INFO] 192.168.143.21 - - [10/Apr/2025 15:40:34] "GET /socket.io/?EIO=4&transport=websocket&sid=mevyTOfa5fEQ_CgKAAAA HTTP/1.1" 200 -
+2025-04-10 15:40:34,714 [INFO] 192.168.143.21 - - [10/Apr/2025 15:40:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 15:40:34,729 [INFO] 192.168.143.21 - - [10/Apr/2025 15:40:34] "GET /socket.io/?EIO=4&transport=polling&t=pe9ahwnx HTTP/1.1" 200 -
+2025-04-10 15:40:34,762 [INFO] Cliente conectado: NpzgeYzQdd5ilZSHAAAD
+2025-04-10 15:40:34,763 [INFO] 192.168.143.21 - - [10/Apr/2025 15:40:34] "POST /socket.io/?EIO=4&transport=polling&t=pe9b9wp7&sid=5y70h4J7xhVl9JWWAAAC HTTP/1.1" 200 -
+2025-04-10 15:40:34,763 [INFO] 192.168.143.21 - - [10/Apr/2025 15:40:34] "GET /socket.io/?EIO=4&transport=polling&t=pe9baymf&sid=5y70h4J7xhVl9JWWAAAC HTTP/1.1" 200 -
+2025-04-10 15:40:36,995 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=OGggKHoXk_8 (SID: NpzgeYzQdd5ilZSHAAAD)
+2025-04-10 15:41:08,770 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:08] "GET / HTTP/1.1" 200 -
+2025-04-10 15:41:08,784 [INFO] Cliente desconectado: NpzgeYzQdd5ilZSHAAAD
+2025-04-10 15:41:08,785 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:08] "GET /socket.io/?EIO=4&transport=websocket&sid=5y70h4J7xhVl9JWWAAAC HTTP/1.1" 200 -
+2025-04-10 15:41:08,795 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 15:41:08,809 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:08] "GET /socket.io/?EIO=4&transport=polling&t=pezl4j97 HTTP/1.1" 200 -
+2025-04-10 15:41:08,855 [INFO] Cliente conectado: HYX2bsbiQmIjd_8fAAAF
+2025-04-10 15:41:08,856 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:08] "POST /socket.io/?EIO=4&transport=polling&t=pezm710f&sid=_rCv7KnYhd_dEHVEAAAE HTTP/1.1" 200 -
+2025-04-10 15:41:08,856 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:08] "GET /socket.io/?EIO=4&transport=polling&t=pezm7xyh&sid=_rCv7KnYhd_dEHVEAAAE HTTP/1.1" 200 -
+2025-04-10 15:41:20,555 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-10 15:41:20,556 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-10 15:41:21,557 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:21] "GET /socket.io/?EIO=4&transport=polling&t=pf9f5m4v HTTP/1.1" 200 -
+2025-04-10 15:41:21,606 [INFO] Cliente conectado: SWF4MUp5coxdwsGKAAAB
+2025-04-10 15:41:21,606 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:21] "POST /socket.io/?EIO=4&transport=polling&t=pf9gfo3s&sid=BLRllVV7pVX8m417AAAA HTTP/1.1" 200 -
+2025-04-10 15:41:21,607 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:21] "GET /socket.io/?EIO=4&transport=polling&t=pf9gg0nm&sid=BLRllVV7pVX8m417AAAA HTTP/1.1" 200 -
+2025-04-10 15:41:23,561 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:23] "GET / HTTP/1.1" 200 -
+2025-04-10 15:41:23,574 [INFO] Cliente desconectado: SWF4MUp5coxdwsGKAAAB
+2025-04-10 15:41:23,574 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:23] "GET /socket.io/?EIO=4&transport=websocket&sid=BLRllVV7pVX8m417AAAA HTTP/1.1" 200 -
+2025-04-10 15:41:23,607 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 15:41:23,624 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:23] "GET /socket.io/?EIO=4&transport=polling&t=pfb0mdgk HTTP/1.1" 200 -
+2025-04-10 15:41:23,668 [INFO] Cliente conectado: yjt8mdbDE6T4CxUuAAAD
+2025-04-10 15:41:23,668 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:23] "POST /socket.io/?EIO=4&transport=polling&t=pfb1q2jz&sid=qZbzqU1aAQT5DDYXAAAC HTTP/1.1" 200 -
+2025-04-10 15:41:23,668 [INFO] 192.168.143.21 - - [10/Apr/2025 15:41:23] "GET /socket.io/?EIO=4&transport=polling&t=pfb1rbda&sid=qZbzqU1aAQT5DDYXAAAC HTTP/1.1" 200 -
+2025-04-10 15:41:40,097 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=OGggKHoXk_8 (SID: yjt8mdbDE6T4CxUuAAAD)
+2025-04-10 15:45:20,762 [INFO] Arquivo downloads\Como se tornar CTO e ser odiado por metade da empresa_f83ca41e-7029-4008-8d26-81dff99d2691.mp4 enviado com sucesso como Como_se_tornar_CTO_e_ser_odiado_por_metade_da_empresa_f__ca__e-_0_9-_00_-_d__-__dff99d__9_.mp_.
+2025-04-10 15:45:20,763 [INFO] 192.168.143.21 - - [10/Apr/2025 15:45:20] "POST /download HTTP/1.1" 200 -
+2025-04-10 15:45:35,748 [INFO] 192.168.143.21 - - [10/Apr/2025 15:45:35] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 16:05:11,870 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:11] "GET / HTTP/1.1" 200 -
+2025-04-10 16:05:11,891 [INFO] Cliente desconectado: yjt8mdbDE6T4CxUuAAAD
+2025-04-10 16:05:11,891 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:11] "GET /socket.io/?EIO=4&transport=websocket&sid=qZbzqU1aAQT5DDYXAAAC HTTP/1.1" 200 -
+2025-04-10 16:05:11,957 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 16:05:11,979 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:11] "GET /socket.io/?EIO=4&transport=polling&t=q9x55j61 HTTP/1.1" 200 -
+2025-04-10 16:05:12,032 [INFO] Cliente conectado: mCJjiJXJcUxjGJYyAAAF
+2025-04-10 16:05:12,032 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:12] "POST /socket.io/?EIO=4&transport=polling&t=q9x6e900&sid=GOgmuZaXl4MWGmuFAAAE HTTP/1.1" 200 -
+2025-04-10 16:05:12,032 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:12] "GET /socket.io/?EIO=4&transport=polling&t=q9x6fscs&sid=GOgmuZaXl4MWGmuFAAAE HTTP/1.1" 200 -
+2025-04-10 16:05:12,936 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:12] "GET / HTTP/1.1" 200 -
+2025-04-10 16:05:12,946 [INFO] Cliente desconectado: mCJjiJXJcUxjGJYyAAAF
+2025-04-10 16:05:12,947 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:12] "GET /socket.io/?EIO=4&transport=websocket&sid=GOgmuZaXl4MWGmuFAAAE HTTP/1.1" 200 -
+2025-04-10 16:05:12,957 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 16:05:12,974 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:12] "GET /socket.io/?EIO=4&transport=polling&t=q9xwu0xv HTTP/1.1" 200 -
+2025-04-10 16:05:13,016 [INFO] Cliente conectado: dFfKsCpyJ5Hruev9AAAH
+2025-04-10 16:05:13,016 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "POST /socket.io/?EIO=4&transport=polling&t=q9xxrd2i&sid=WLOFKguDsLojSvm6AAAG HTTP/1.1" 200 -
+2025-04-10 16:05:13,017 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET /socket.io/?EIO=4&transport=polling&t=q9xxrj1r&sid=WLOFKguDsLojSvm6AAAG HTTP/1.1" 200 -
+2025-04-10 16:05:13,593 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET / HTTP/1.1" 200 -
+2025-04-10 16:05:13,607 [INFO] Cliente desconectado: dFfKsCpyJ5Hruev9AAAH
+2025-04-10 16:05:13,607 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET /socket.io/?EIO=4&transport=websocket&sid=WLOFKguDsLojSvm6AAAG HTTP/1.1" 200 -
+2025-04-10 16:05:13,617 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 16:05:13,629 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET /socket.io/?EIO=4&transport=polling&t=q9yf21ju HTTP/1.1" 200 -
+2025-04-10 16:05:13,660 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET /socket.io/?EIO=4&transport=polling&t=q9yfxxco&sid=xkd34XhrltTkegXoAAAI HTTP/1.1" 200 -
+2025-04-10 16:05:13,665 [INFO] Cliente conectado: 257PfPAsRdk7SIElAAAJ
+2025-04-10 16:05:13,665 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "POST /socket.io/?EIO=4&transport=polling&t=q9yfwk8e&sid=xkd34XhrltTkegXoAAAI HTTP/1.1" 200 -
+2025-04-10 16:05:13,677 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET /socket.io/?EIO=4&transport=polling&t=q9ygf7f2&sid=xkd34XhrltTkegXoAAAI HTTP/1.1" 200 -
+2025-04-10 16:05:13,692 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET /socket.io/?EIO=4&transport=polling&t=q9yguhm8&sid=xkd34XhrltTkegXoAAAI HTTP/1.1" 200 -
+2025-04-10 16:05:13,962 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET / HTTP/1.1" 200 -
+2025-04-10 16:05:13,976 [INFO] Cliente desconectado: 257PfPAsRdk7SIElAAAJ
+2025-04-10 16:05:13,976 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET /socket.io/?EIO=4&transport=websocket&sid=xkd34XhrltTkegXoAAAI HTTP/1.1" 200 -
+2025-04-10 16:05:13,986 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 16:05:13,998 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:13] "GET /socket.io/?EIO=4&transport=polling&t=q9ypbqrq HTTP/1.1" 200 -
+2025-04-10 16:05:14,030 [INFO] Cliente conectado: osZ2Lj5CVJcRtZUnAAAL
+2025-04-10 16:05:14,030 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:14] "POST /socket.io/?EIO=4&transport=polling&t=q9ypzbll&sid=sEL4EKls61NMNXysAAAK HTTP/1.1" 200 -
+2025-04-10 16:05:14,030 [INFO] 192.168.143.21 - - [10/Apr/2025 16:05:14] "GET /socket.io/?EIO=4&transport=polling&t=q9yq01ze&sid=sEL4EKls61NMNXysAAAK HTTP/1.1" 200 -
+2025-04-10 16:05:21,847 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=OGggKHoXk_8 (SID: osZ2Lj5CVJcRtZUnAAAL)
+2025-04-10 16:09:11,546 [INFO] Arquivo downloads\Como se tornar CTO e ser odiado por metade da empresa_145ab766-675e-495a-a169-f415726ab341.mp4 enviado com sucesso como Como_se_tornar_CTO_e_ser_odiado_por_metade_da_empresa____ab___-___e-_9_a-a__9-f______ab___.mp_.
+2025-04-10 16:09:11,547 [INFO] 192.168.143.21 - - [10/Apr/2025 16:09:11] "POST /download HTTP/1.1" 200 -
+2025-04-10 16:09:26,217 [INFO] 192.168.143.21 - - [10/Apr/2025 16:09:26] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 16:21:54,468 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-10 16:21:54,469 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-10 16:21:55,839 [INFO] 192.168.143.21 - - [10/Apr/2025 16:21:55] "GET /socket.io/?EIO=4&transport=polling&t=qvfp7shc HTTP/1.1" 200 -
+2025-04-10 16:21:55,889 [INFO] Cliente conectado: PIIkCy8TgmVba6FDAAAB
+2025-04-10 16:21:55,889 [INFO] 192.168.143.21 - - [10/Apr/2025 16:21:55] "POST /socket.io/?EIO=4&transport=polling&t=qvfr5pin&sid=s0M2hpi6MPYKihpJAAAA HTTP/1.1" 200 -
+2025-04-10 16:21:55,890 [INFO] 192.168.143.21 - - [10/Apr/2025 16:21:55] "GET /socket.io/?EIO=4&transport=polling&t=qvfr61nv&sid=s0M2hpi6MPYKihpJAAAA HTTP/1.1" 200 -
+2025-04-10 16:22:00,219 [INFO] 192.168.143.21 - - [10/Apr/2025 16:22:00] "GET / HTTP/1.1" 200 -
+2025-04-10 16:22:00,258 [INFO] Cliente desconectado: PIIkCy8TgmVba6FDAAAB
+2025-04-10 16:22:00,258 [INFO] 192.168.143.21 - - [10/Apr/2025 16:22:00] "GET /socket.io/?EIO=4&transport=websocket&sid=s0M2hpi6MPYKihpJAAAA HTTP/1.1" 200 -
+2025-04-10 16:22:00,356 [INFO] 192.168.143.21 - - [10/Apr/2025 16:22:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 16:22:00,377 [INFO] 192.168.143.21 - - [10/Apr/2025 16:22:00] "GET /socket.io/?EIO=4&transport=polling&t=qvj82s38 HTTP/1.1" 200 -
+2025-04-10 16:22:00,401 [INFO] 192.168.143.21 - - [10/Apr/2025 16:22:00] "GET /socket.io/?EIO=4&transport=polling&t=qvj8phon&sid=z6_ypUHc0y9QZSgXAAAC HTTP/1.1" 200 -
+2025-04-10 16:22:00,406 [INFO] Cliente conectado: xHmlRAFiUPbUjFotAAAD
+2025-04-10 16:22:00,407 [INFO] 192.168.143.21 - - [10/Apr/2025 16:22:00] "POST /socket.io/?EIO=4&transport=polling&t=qvj8ocq9&sid=z6_ypUHc0y9QZSgXAAAC HTTP/1.1" 200 -
+2025-04-10 16:22:04,121 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=g-BjJmbvQZ0 (SID: xHmlRAFiUPbUjFotAAAD)
+2025-04-10 16:22:45,240 [ERROR] Erro ao processar download: Erro ao baixar ou mesclar vídeo: Arquivo final downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_8bf1c0af-a387-47ca-8e7e-f1d6c9694452.mp4 não foi gerado.
+Traceback (most recent call last):
+  File "C:\app\appclip\backend\downloader.py", line 64, in download_video
+    raise Exception(f"Arquivo final {filename} não foi gerado.")
+Exception: Arquivo final downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_8bf1c0af-a387-47ca-8e7e-f1d6c9694452.mp4 não foi gerado.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\app\appclip\backend\app.py", line 45, in download
+    file_path = downloader.download_video(url, sid)
+  File "C:\app\appclip\backend\downloader.py", line 94, in download_video
+    raise Exception(f"Erro ao baixar ou mesclar vídeo: {str(e)}")
+Exception: Erro ao baixar ou mesclar vídeo: Arquivo final downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_8bf1c0af-a387-47ca-8e7e-f1d6c9694452.mp4 não foi gerado.
+
+2025-04-10 16:22:45,241 [INFO] 192.168.143.21 - - [10/Apr/2025 16:22:45] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-04-10 16:22:46,286 [INFO] 192.168.143.21 - - [10/Apr/2025 16:22:46] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 16:27:09,888 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-10 16:27:09,889 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-10 16:27:10,887 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:10] "GET /socket.io/?EIO=4&transport=polling&t=r26tbtwe HTTP/1.1" 200 -
+2025-04-10 16:27:10,927 [INFO] Cliente conectado: PvQ9TeIUbs1ud9Q4AAAB
+2025-04-10 16:27:10,928 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:10] "POST /socket.io/?EIO=4&transport=polling&t=r26u5slz&sid=hN6k69kTdsdOzyx4AAAA HTTP/1.1" 200 -
+2025-04-10 16:27:10,928 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:10] "GET /socket.io/?EIO=4&transport=polling&t=r26u6qyp&sid=hN6k69kTdsdOzyx4AAAA HTTP/1.1" 200 -
+2025-04-10 16:27:15,859 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:15] "GET / HTTP/1.1" 200 -
+2025-04-10 16:27:15,870 [INFO] Cliente desconectado: PvQ9TeIUbs1ud9Q4AAAB
+2025-04-10 16:27:15,870 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:15] "GET /socket.io/?EIO=4&transport=websocket&sid=hN6k69kTdsdOzyx4AAAA HTTP/1.1" 200 -
+2025-04-10 16:27:15,905 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 16:27:15,921 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:15] "GET /socket.io/?EIO=4&transport=polling&t=r2ap4cv0 HTTP/1.1" 200 -
+2025-04-10 16:27:15,963 [INFO] Cliente conectado: xo9TVzk0kiDCikMwAAAD
+2025-04-10 16:27:15,963 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:15] "POST /socket.io/?EIO=4&transport=polling&t=r2aq56c6&sid=yTxdKxxM1rN7mMSKAAAC HTTP/1.1" 200 -
+2025-04-10 16:27:15,963 [INFO] 192.168.143.21 - - [10/Apr/2025 16:27:15] "GET /socket.io/?EIO=4&transport=polling&t=r2aq6k68&sid=yTxdKxxM1rN7mMSKAAAC HTTP/1.1" 200 -
+2025-04-10 16:27:17,399 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=g-BjJmbvQZ0 (SID: xo9TVzk0kiDCikMwAAAD)
+2025-04-10 16:36:58,507 [INFO] Arquivo downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_3874af5f-d2fd-4cc7-aa2e-24e79522ddec.mp4 enviado com sucesso como LAYOFF__PROGRAMADOR_NO_CODE__HOME_OFFICE__-_Experience_Podcast_30_-_Mano_Deyvin_3874af5f-d2fd-4cc7-aa2e-24e79522ddec.mp4.
+2025-04-10 16:36:58,508 [INFO] 192.168.143.21 - - [10/Apr/2025 16:36:58] "POST /download HTTP/1.1" 200 -
+2025-04-10 16:37:17,789 [INFO] 192.168.143.21 - - [10/Apr/2025 16:37:17] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 16:40:06,696 [INFO] 192.168.143.21 - - [10/Apr/2025 16:40:06] "GET / HTTP/1.1" 200 -
+2025-04-10 16:40:06,711 [INFO] Cliente desconectado: xo9TVzk0kiDCikMwAAAD
+2025-04-10 16:40:06,712 [INFO] 192.168.143.21 - - [10/Apr/2025 16:40:06] "GET /socket.io/?EIO=4&transport=websocket&sid=yTxdKxxM1rN7mMSKAAAC HTTP/1.1" 200 -
+2025-04-10 16:40:06,724 [INFO] 192.168.143.21 - - [10/Apr/2025 16:40:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 16:40:06,740 [INFO] 192.168.143.21 - - [10/Apr/2025 16:40:06] "GET /socket.io/?EIO=4&transport=polling&t=ritgf17h HTTP/1.1" 200 -
+2025-04-10 16:40:06,778 [INFO] Cliente conectado: MsO9khXRyvIpVHGpAAAF
+2025-04-10 16:40:06,778 [INFO] 192.168.143.21 - - [10/Apr/2025 16:40:06] "POST /socket.io/?EIO=4&transport=polling&t=rithc0vi&sid=ys00b8F3A7ZhYf2yAAAE HTTP/1.1" 200 -
+2025-04-10 16:40:06,778 [INFO] 192.168.143.21 - - [10/Apr/2025 16:40:06] "GET /socket.io/?EIO=4&transport=polling&t=rithd2dw&sid=ys00b8F3A7ZhYf2yAAAE HTTP/1.1" 200 -
+2025-04-10 16:42:34,957 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-10 16:42:34,957 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-10 16:42:35,970 [INFO] 192.168.143.21 - - [10/Apr/2025 16:42:35] "GET /socket.io/?EIO=4&transport=polling&t=rm0lng1o HTTP/1.1" 200 -
+2025-04-10 16:42:36,012 [INFO] Cliente conectado: ECBUoFG6vmqDdDn1AAAB
+2025-04-10 16:42:36,012 [INFO] 192.168.143.21 - - [10/Apr/2025 16:42:36] "POST /socket.io/?EIO=4&transport=polling&t=rm0mky79&sid=-XP1RuywK2-mkTwtAAAA HTTP/1.1" 200 -
+2025-04-10 16:42:36,012 [INFO] 192.168.143.21 - - [10/Apr/2025 16:42:36] "GET /socket.io/?EIO=4&transport=polling&t=rm0mlg8h&sid=-XP1RuywK2-mkTwtAAAA HTTP/1.1" 200 -
+2025-04-10 16:43:07,219 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=g-BjJmbvQZ0 (SID: ECBUoFG6vmqDdDn1AAAB)
+2025-04-10 16:52:56,496 [INFO] Arquivo downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_eace08cf-daa0-4061-86c1-a0a460df4d5b.mp4 enviado com sucesso como LAYOFF__PROGRAMADOR_NO_CODE__HOME_OFFICE__-_Experience_Podcast_30_-_Mano_Deyvin_eace08cf-daa0-4061-86c1-a0a460df4d5b.mp4.
+2025-04-10 16:52:56,497 [INFO] 192.168.143.21 - - [10/Apr/2025 16:52:56] "POST /download HTTP/1.1" 200 -
+2025-04-10 16:53:07,588 [INFO] 192.168.143.21 - - [10/Apr/2025 16:53:07] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 17:00:51,920 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-10 17:00:51,920 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-10 17:00:52,015 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:52] "GET /socket.io/?EIO=4&transport=polling&t=s9h5cjhw HTTP/1.1" 200 -
+2025-04-10 17:00:52,071 [INFO] Cliente conectado: uzpybVG2MgQYCtCyAAAB
+2025-04-10 17:00:52,072 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:52] "POST /socket.io/?EIO=4&transport=polling&t=s9id9iax&sid=W8NEfrwed7uX3HwuAAAA HTTP/1.1" 200 -
+2025-04-10 17:00:52,072 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:52] "GET /socket.io/?EIO=4&transport=polling&t=s9idaf1d&sid=W8NEfrwed7uX3HwuAAAA HTTP/1.1" 200 -
+2025-04-10 17:00:52,100 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:52] "GET /socket.io/?EIO=4&transport=polling&t=s9ieh3jq&sid=W8NEfrwed7uX3HwuAAAA HTTP/1.1" 200 -
+2025-04-10 17:00:58,065 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:58] "GET / HTTP/1.1" 200 -
+2025-04-10 17:00:58,102 [INFO] Cliente desconectado: uzpybVG2MgQYCtCyAAAB
+2025-04-10 17:00:58,103 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:58] "GET /socket.io/?EIO=4&transport=websocket&sid=W8NEfrwed7uX3HwuAAAA HTTP/1.1" 200 -
+2025-04-10 17:00:58,134 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:58] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-10 17:00:58,167 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:58] "GET /socket.io/?EIO=4&transport=polling&t=s9n2z5xs HTTP/1.1" 200 -
+2025-04-10 17:00:58,206 [INFO] Cliente conectado: wjH7nhaCoOK1ZxEMAAAD
+2025-04-10 17:00:58,206 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:58] "POST /socket.io/?EIO=4&transport=polling&t=s9n3qy6v&sid=HKpty3ilv2SntpdFAAAC HTTP/1.1" 200 -
+2025-04-10 17:00:58,206 [INFO] 192.168.143.21 - - [10/Apr/2025 17:00:58] "GET /socket.io/?EIO=4&transport=polling&t=s9n3rcjf&sid=HKpty3ilv2SntpdFAAAC HTTP/1.1" 200 -
+2025-04-10 17:01:20,318 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=g-BjJmbvQZ0 (SID: wjH7nhaCoOK1ZxEMAAAD)
+2025-04-10 17:10:13,178 [INFO] Arquivo baixado e mesclado: downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_42e3d319-7095-46a6-acc8-7837ca5f25c3.mp4
+2025-04-10 17:11:00,161 [INFO] Arquivo downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_42e3d319-7095-46a6-acc8-7837ca5f25c3.mp4 enviado com sucesso como LAYOFF__PROGRAMADOR_NO_CODE__HOME_OFFICE__-_Experience_Podcast_30_-_Mano_Deyvin_42e3d319-7095-46a6-acc8-7837ca5f25c3.mp4.
+2025-04-10 17:11:00,162 [INFO] 192.168.143.21 - - [10/Apr/2025 17:11:00] "POST /download HTTP/1.1" 200 -
+2025-04-10 17:11:31,888 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-10 17:11:31,888 [INFO] 192.168.143.21 - - [10/Apr/2025 17:11:31] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 17:19:24,020 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-10 17:19:24,020 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-10 17:19:25,934 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:25] "GET /socket.io/?EIO=4&transport=polling&t=sxdu9gmz HTTP/1.1" 200 -
+2025-04-10 17:19:25,972 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:25] "GET /socket.io/?EIO=4&transport=polling&t=sxdve205&sid=9UcvqicnK-ycl5_6AAAA HTTP/1.1" 200 -
+2025-04-10 17:19:25,980 [INFO] Cliente conectado: 2lyOQrOVnMSeFd_lAAAB
+2025-04-10 17:19:25,980 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:25] "POST /socket.io/?EIO=4&transport=polling&t=sxdvdyjk&sid=9UcvqicnK-ycl5_6AAAA HTTP/1.1" 200 -
+2025-04-10 17:19:25,989 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:25] "GET /socket.io/?EIO=4&transport=polling&t=sxdvwja3&sid=9UcvqicnK-ycl5_6AAAA HTTP/1.1" 200 -
+2025-04-10 17:19:33,558 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:33] "GET / HTTP/1.1" 200 -
+2025-04-10 17:19:33,593 [INFO] Cliente desconectado: 2lyOQrOVnMSeFd_lAAAB
+2025-04-10 17:19:33,593 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:33] "GET /socket.io/?EIO=4&transport=websocket&sid=9UcvqicnK-ycl5_6AAAA HTTP/1.1" 200 -
+2025-04-10 17:19:33,627 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 17:19:33,645 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:33] "GET /socket.io/?EIO=4&transport=polling&t=sxjsg8mr HTTP/1.1" 200 -
+2025-04-10 17:19:33,669 [INFO] Cliente conectado: C_Jv_ayHj0KApzOCAAAD
+2025-04-10 17:19:33,669 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:33] "POST /socket.io/?EIO=4&transport=polling&t=sxjt2l3c&sid=xG8RuosChPLOTxYmAAAC HTTP/1.1" 200 -
+2025-04-10 17:19:33,669 [INFO] 192.168.143.21 - - [10/Apr/2025 17:19:33] "GET /socket.io/?EIO=4&transport=polling&t=sxjt24yb&sid=xG8RuosChPLOTxYmAAAC HTTP/1.1" 200 -
+2025-04-10 17:19:36,074 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=g-BjJmbvQZ0 (SID: C_Jv_ayHj0KApzOCAAAD)
+2025-04-10 17:28:58,449 [INFO] Arquivo baixado e mesclado: downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_e31be116-b2d8-46ef-b60a-ba01dd489ad3.mp4
+2025-04-10 17:29:45,434 [INFO] Arquivo downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_e31be116-b2d8-46ef-b60a-ba01dd489ad3.mp4 enviado com sucesso como LAYOFF__PROGRAMADOR_NO_CODE__HOME_OFFICE__-_Experience_Podcast_30_-_Mano_Deyvin_e31be116-b2d8-46ef-b60a-ba01dd489ad3.mp4.
+2025-04-10 17:29:45,434 [ERROR] Erro ao excluir arquivo downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_e31be116-b2d8-46ef-b60a-ba01dd489ad3.mp4 após o envio: [WinError 32] O arquivo já está sendo usado por outro processo: 'downloads\\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_e31be116-b2d8-46ef-b60a-ba01dd489ad3.mp4'
+2025-04-10 17:29:45,434 [INFO] 192.168.143.21 - - [10/Apr/2025 17:29:45] "POST /download HTTP/1.1" 200 -
+2025-04-10 17:30:20,341 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-10 17:30:20,341 [INFO] 192.168.143.21 - - [10/Apr/2025 17:30:20] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 17:31:31,361 [INFO] 192.168.143.21 - - [10/Apr/2025 17:31:31] "GET / HTTP/1.1" 200 -
+2025-04-10 17:31:31,377 [INFO] Cliente desconectado: C_Jv_ayHj0KApzOCAAAD
+2025-04-10 17:31:31,377 [INFO] 192.168.143.21 - - [10/Apr/2025 17:31:31] "GET /socket.io/?EIO=4&transport=websocket&sid=xG8RuosChPLOTxYmAAAC HTTP/1.1" 200 -
+2025-04-10 17:31:31,393 [INFO] 192.168.143.21 - - [10/Apr/2025 17:31:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 17:31:31,409 [INFO] 192.168.143.21 - - [10/Apr/2025 17:31:31] "GET /socket.io/?EIO=4&transport=polling&t=tcxmbc5c HTTP/1.1" 200 -
+2025-04-10 17:31:31,443 [INFO] 192.168.143.21 - - [10/Apr/2025 17:31:31] "GET /socket.io/?EIO=4&transport=polling&t=tcxn7zsk&sid=tEN9nA7K49VHY3p4AAAE HTTP/1.1" 200 -
+2025-04-10 17:31:31,447 [INFO] Cliente conectado: VIxlhXuVtCHGvSNfAAAF
+2025-04-10 17:31:31,447 [INFO] 192.168.143.21 - - [10/Apr/2025 17:31:31] "POST /socket.io/?EIO=4&transport=polling&t=tcxn63rv&sid=tEN9nA7K49VHY3p4AAAE HTTP/1.1" 200 -
+2025-04-10 17:32:49,816 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-10 17:32:49,817 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-10 17:32:51,636 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:51] "GET /socket.io/?EIO=4&transport=polling&t=teninmnx HTTP/1.1" 200 -
+2025-04-10 17:32:51,677 [INFO] Cliente conectado: zCHi5yqW8X-M8Yx2AAAB
+2025-04-10 17:32:51,678 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:51] "POST /socket.io/?EIO=4&transport=polling&t=tenjtth0&sid=c9lOshAsiw-SjYH4AAAA HTTP/1.1" 200 -
+2025-04-10 17:32:51,678 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:51] "GET /socket.io/?EIO=4&transport=polling&t=tenjt8b3&sid=c9lOshAsiw-SjYH4AAAA HTTP/1.1" 200 -
+2025-04-10 17:32:51,701 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:51] "GET /socket.io/?EIO=4&transport=polling&t=tenkp8qz&sid=c9lOshAsiw-SjYH4AAAA HTTP/1.1" 200 -
+2025-04-10 17:32:57,099 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:57] "GET / HTTP/1.1" 200 -
+2025-04-10 17:32:57,141 [INFO] Cliente desconectado: zCHi5yqW8X-M8Yx2AAAB
+2025-04-10 17:32:57,142 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:57] "GET /socket.io/?EIO=4&transport=websocket&sid=c9lOshAsiw-SjYH4AAAA HTTP/1.1" 200 -
+2025-04-10 17:32:57,174 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 17:32:57,193 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:57] "GET /socket.io/?EIO=4&transport=polling&t=tert58fm HTTP/1.1" 200 -
+2025-04-10 17:32:57,231 [INFO] Cliente conectado: ivMHwH2JWgkfUjN0AAAD
+2025-04-10 17:32:57,231 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:57] "POST /socket.io/?EIO=4&transport=polling&t=teru0dyr&sid=KVnOC59hRtX8E7FkAAAC HTTP/1.1" 200 -
+2025-04-10 17:32:57,231 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:57] "GET /socket.io/?EIO=4&transport=polling&t=teru1gho&sid=KVnOC59hRtX8E7FkAAAC HTTP/1.1" 200 -
+2025-04-10 17:32:57,253 [INFO] 192.168.143.21 - - [10/Apr/2025 17:32:57] "GET /socket.io/?EIO=4&transport=polling&t=teruwe4h&sid=KVnOC59hRtX8E7FkAAAC HTTP/1.1" 200 -
+2025-04-10 17:33:00,284 [INFO] 192.168.143.21 - - [10/Apr/2025 17:33:00] "GET / HTTP/1.1" 200 -
+2025-04-10 17:33:00,296 [INFO] Cliente desconectado: ivMHwH2JWgkfUjN0AAAD
+2025-04-10 17:33:00,296 [INFO] 192.168.143.21 - - [10/Apr/2025 17:33:00] "GET /socket.io/?EIO=4&transport=websocket&sid=KVnOC59hRtX8E7FkAAAC HTTP/1.1" 200 -
+2025-04-10 17:33:00,307 [INFO] 192.168.143.21 - - [10/Apr/2025 17:33:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 17:33:00,326 [INFO] 192.168.143.21 - - [10/Apr/2025 17:33:00] "GET /socket.io/?EIO=4&transport=polling&t=teu82hql HTTP/1.1" 200 -
+2025-04-10 17:33:00,363 [INFO] Cliente conectado: PFw8byu2JEvffWyqAAAF
+2025-04-10 17:33:00,363 [INFO] 192.168.143.21 - - [10/Apr/2025 17:33:00] "POST /socket.io/?EIO=4&transport=polling&t=teu93883&sid=nF80FhlsT_Sj34kcAAAE HTTP/1.1" 200 -
+2025-04-10 17:33:00,364 [INFO] 192.168.143.21 - - [10/Apr/2025 17:33:00] "GET /socket.io/?EIO=4&transport=polling&t=teu94lqw&sid=nF80FhlsT_Sj34kcAAAE HTTP/1.1" 200 -
+2025-04-10 17:33:02,502 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=g-BjJmbvQZ0 (SID: PFw8byu2JEvffWyqAAAF)
+2025-04-10 17:42:09,426 [INFO] Arquivo baixado e mesclado: downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_25dc1b25-9696-4735-8b05-6fd86910ce8c.mp4
+2025-04-10 17:42:09,426 [DEBUG] Progresso de envio: 92.0% (SID: PFw8byu2JEvffWyqAAAF)
+2025-04-10 17:42:18,823 [DEBUG] Progresso de envio: 94.0% (SID: PFw8byu2JEvffWyqAAAF)
+2025-04-10 17:42:28,221 [DEBUG] Progresso de envio: 96.0% (SID: PFw8byu2JEvffWyqAAAF)
+2025-04-10 17:42:37,617 [DEBUG] Progresso de envio: 98.0% (SID: PFw8byu2JEvffWyqAAAF)
+2025-04-10 17:42:47,014 [DEBUG] Progresso de envio: 100.0% (SID: PFw8byu2JEvffWyqAAAF)
+2025-04-10 17:42:56,411 [DEBUG] Iniciando envio do arquivo: downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_25dc1b25-9696-4735-8b05-6fd86910ce8c.mp4
+2025-04-10 17:42:56,412 [INFO] Arquivo downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_25dc1b25-9696-4735-8b05-6fd86910ce8c.mp4 enviado com sucesso como LAYOFF__PROGRAMADOR_NO_CODE__HOME_OFFICE__-_Experience_Podcast__0_-_Mano_Deyvin___dc_b__-9_9_-____-_b0_-_fd__9_0ce_c.mp4.
+2025-04-10 17:42:56,412 [INFO] 192.168.143.21 - - [10/Apr/2025 17:42:56] "POST /download HTTP/1.1" 200 -
+2025-04-10 17:43:28,247 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-10 17:43:28,247 [INFO] 192.168.143.21 - - [10/Apr/2025 17:43:28] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 17:46:11,096 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-10 17:46:11,097 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-10 17:46:12,231 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:12] "GET /socket.io/?EIO=4&transport=polling&t=tvt8u1mj HTTP/1.1" 200 -
+2025-04-10 17:46:12,282 [INFO] Cliente conectado: qQ1CqXhRLPFeepaPAAAB
+2025-04-10 17:46:12,282 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:12] "POST /socket.io/?EIO=4&transport=polling&t=tvtaghid&sid=D87p1eV8taoDJFYkAAAA HTTP/1.1" 200 -
+2025-04-10 17:46:12,283 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:12] "GET /socket.io/?EIO=4&transport=polling&t=tvtagz1k&sid=D87p1eV8taoDJFYkAAAA HTTP/1.1" 200 -
+2025-04-10 17:46:50,392 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:50] "GET / HTTP/1.1" 200 -
+2025-04-10 17:46:50,430 [INFO] Cliente desconectado: qQ1CqXhRLPFeepaPAAAB
+2025-04-10 17:46:50,431 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:50] "GET /socket.io/?EIO=4&transport=websocket&sid=D87p1eV8taoDJFYkAAAA HTTP/1.1" 200 -
+2025-04-10 17:46:50,465 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-10 17:46:50,485 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:50] "GET /socket.io/?EIO=4&transport=polling&t=twmrtjhd HTTP/1.1" 200 -
+2025-04-10 17:46:50,519 [INFO] Cliente conectado: 8QyjNT7QV1TVbDHDAAAD
+2025-04-10 17:46:50,519 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:50] "POST /socket.io/?EIO=4&transport=polling&t=twmsqnqh&sid=GdZO8ZSlQqS3Mn4NAAAC HTTP/1.1" 200 -
+2025-04-10 17:46:50,519 [INFO] 192.168.143.21 - - [10/Apr/2025 17:46:50] "GET /socket.io/?EIO=4&transport=polling&t=twmsryoz&sid=GdZO8ZSlQqS3Mn4NAAAC HTTP/1.1" 200 -
+2025-04-10 17:46:53,567 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=g-BjJmbvQZ0 (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:56:09,655 [INFO] Arquivo baixado e mesclado: downloads\LAYOFF\uff1f PROGRAMADOR NO CODE\uff1f HOME OFFICE\uff1f - Experience Podcast 30 - Mano Deyvin_1395a727-3d51-4687-94f1-f52a42c58b34.mp4
+2025-04-10 17:56:09,655 [DEBUG] Progresso de envio: 92.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:56:19,052 [DEBUG] Progresso de envio: 94.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:56:28,449 [DEBUG] Progresso de envio: 96.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:56:37,845 [DEBUG] Progresso de envio: 98.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:56:47,242 [DEBUG] Progresso de envio: 100.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:56:56,639 [DEBUG] Range header recebido: null
+2025-04-10 17:56:56,641 [ERROR] Erro ao processar download: 'NoneType' object has no attribute 'ranges'
+Traceback (most recent call last):
+  File "C:\app\appclip\backend\app.py", line 78, in download
+    start = range_obj.ranges[0][0] if range_obj.ranges else 0
+                                      ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'ranges'
+
+2025-04-10 17:56:56,641 [INFO] 192.168.143.21 - - [10/Apr/2025 17:56:56] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-04-10 17:56:57,071 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-10 17:56:57,072 [INFO] 192.168.143.21 - - [10/Apr/2025 17:56:57] "POST /cleanup HTTP/1.1" 200 -
+2025-04-10 17:57:30,936 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=i6w6qpNnkLo (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:59:25,388 [INFO] Arquivo baixado e mesclado: downloads\A ROTINA dos RICOS no BRASIL que VOCÊ NÃO CONHECIA..._b2930fff-8bd6-47ec-86c2-28b44f909ccf.mp4
+2025-04-10 17:59:25,388 [DEBUG] Progresso de envio: 92.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:59:27,081 [DEBUG] Progresso de envio: 94.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:59:28,774 [DEBUG] Progresso de envio: 96.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:59:30,467 [DEBUG] Progresso de envio: 98.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:59:32,160 [DEBUG] Progresso de envio: 100.0% (SID: 8QyjNT7QV1TVbDHDAAAD)
+2025-04-10 17:59:33,852 [DEBUG] Range header recebido: null
+2025-04-10 17:59:33,854 [ERROR] Erro ao processar download: 'NoneType' object has no attribute 'ranges'
+Traceback (most recent call last):
+  File "C:\app\appclip\backend\app.py", line 78, in download
+    start = range_obj.ranges[0][0] if range_obj.ranges else 0
+                                      ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'ranges'
+
+2025-04-10 17:59:33,854 [INFO] 192.168.143.21 - - [10/Apr/2025 17:59:33] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-04-10 17:59:33,969 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-10 17:59:33,970 [INFO] 192.168.143.21 - - [10/Apr/2025 17:59:33] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 08:34:50,083 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-11 08:34:50,083 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-11 08:34:50,643 [INFO] 192.168.143.21 - - [11/Apr/2025 08:34:50] "GET / HTTP/1.1" 200 -
+2025-04-11 08:34:51,747 [INFO] 192.168.143.21 - - [11/Apr/2025 08:34:51] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-11 08:34:51,986 [INFO] 192.168.143.21 - - [11/Apr/2025 08:34:51] "GET /socket.io/?EIO=4&transport=polling&t=pmn2ikez HTTP/1.1" 200 -
+2025-04-11 08:34:52,036 [INFO] 192.168.143.21 - - [11/Apr/2025 08:34:52] "GET /socket.io/?EIO=4&transport=polling&t=pmn3r1md&sid=pUsMcaoHykbHang0AAAA HTTP/1.1" 200 -
+2025-04-11 08:34:52,038 [INFO] 192.168.143.21 - - [11/Apr/2025 08:34:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-11 08:34:52,042 [INFO] Cliente conectado: NtjjVvysjy6HNLMFAAAB
+2025-04-11 08:34:52,042 [INFO] 192.168.143.21 - - [11/Apr/2025 08:34:52] "POST /socket.io/?EIO=4&transport=polling&t=pmn3moks&sid=pUsMcaoHykbHang0AAAA HTTP/1.1" 200 -
+2025-04-11 08:34:52,061 [INFO] 192.168.143.21 - - [11/Apr/2025 08:34:52] "GET /socket.io/?EIO=4&transport=polling&t=pmn4n78o&sid=pUsMcaoHykbHang0AAAA HTTP/1.1" 200 -
+2025-04-11 08:34:57,976 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=ympv0UdDjS8 (SID: NtjjVvysjy6HNLMFAAAB)
+2025-04-11 08:37:56,674 [INFO] Arquivo baixado e mesclado: downloads\Se Todo Mundo Te Ama, Ninguém Liga Pra Você – Fábio Akita_93a3f6c3-2046-4558-87f9-435448f0617c.mp4
+2025-04-11 08:37:56,675 [DEBUG] Progresso de envio: 92.0% (SID: NtjjVvysjy6HNLMFAAAB)
+2025-04-11 08:38:00,119 [DEBUG] Progresso de envio: 94.0% (SID: NtjjVvysjy6HNLMFAAAB)
+2025-04-11 08:38:03,564 [DEBUG] Progresso de envio: 96.0% (SID: NtjjVvysjy6HNLMFAAAB)
+2025-04-11 08:38:07,009 [DEBUG] Progresso de envio: 98.0% (SID: NtjjVvysjy6HNLMFAAAB)
+2025-04-11 08:38:10,453 [DEBUG] Progresso de envio: 100.0% (SID: NtjjVvysjy6HNLMFAAAB)
+2025-04-11 08:38:13,898 [DEBUG] Range header recebido: null
+2025-04-11 08:38:13,899 [ERROR] Erro ao processar download: 'NoneType' object has no attribute 'ranges'
+Traceback (most recent call last):
+  File "C:\app\appclip\backend\app.py", line 78, in download
+    start = range_obj.ranges[0][0] if range_obj.ranges else 0
+                                      ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'ranges'
+
+2025-04-11 08:38:13,900 [INFO] 192.168.143.21 - - [11/Apr/2025 08:38:13] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-04-11 08:38:14,093 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 08:38:14,094 [INFO] 192.168.143.21 - - [11/Apr/2025 08:38:14] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 08:45:14,634 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-11 08:45:14,634 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-11 08:45:15,086 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:15] "GET /socket.io/?EIO=4&transport=polling&t=pzzultyn HTTP/1.1" 200 -
+2025-04-11 08:45:15,135 [INFO] Cliente conectado: jJkJja3xIKQ8GYPiAAAB
+2025-04-11 08:45:15,135 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:15] "POST /socket.io/?EIO=4&transport=polling&t=pzzvq8lh&sid=qoHMo-z1v92ik23jAAAA HTTP/1.1" 200 -
+2025-04-11 08:45:15,135 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:15] "GET /socket.io/?EIO=4&transport=polling&t=pzzvr23m&sid=qoHMo-z1v92ik23jAAAA HTTP/1.1" 200 -
+2025-04-11 08:45:20,240 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:20] "GET / HTTP/1.1" 200 -
+2025-04-11 08:45:20,252 [INFO] Cliente desconectado: jJkJja3xIKQ8GYPiAAAB
+2025-04-11 08:45:20,253 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:20] "GET /socket.io/?EIO=4&transport=websocket&sid=qoHMo-z1v92ik23jAAAA HTTP/1.1" 200 -
+2025-04-11 08:45:20,292 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 08:45:20,312 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:20] "GET /socket.io/?EIO=4&transport=polling&t=q03vsrtd HTTP/1.1" 200 -
+2025-04-11 08:45:20,360 [INFO] Cliente conectado: vqhYz5qc97QyjSx5AAAD
+2025-04-11 08:45:20,360 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:20] "POST /socket.io/?EIO=4&transport=polling&t=q03wyt4q&sid=772SVrE4cYEdRGinAAAC HTTP/1.1" 200 -
+2025-04-11 08:45:20,360 [INFO] 192.168.143.21 - - [11/Apr/2025 08:45:20] "GET /socket.io/?EIO=4&transport=polling&t=q03wyfee&sid=772SVrE4cYEdRGinAAAC HTTP/1.1" 200 -
+2025-04-11 08:45:22,982 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=ympv0UdDjS8 (SID: vqhYz5qc97QyjSx5AAAD)
+2025-04-11 08:48:21,967 [INFO] Arquivo baixado e mesclado: downloads\Se Todo Mundo Te Ama, Ninguém Liga Pra Você – Fábio Akita_d4955a58-c6e6-4f38-b142-c3ea3658343a.mp4
+2025-04-11 08:48:21,968 [DEBUG] Progresso de envio: 92.0% (SID: vqhYz5qc97QyjSx5AAAD)
+2025-04-11 08:48:25,412 [DEBUG] Progresso de envio: 94.0% (SID: vqhYz5qc97QyjSx5AAAD)
+2025-04-11 08:48:28,857 [DEBUG] Progresso de envio: 96.0% (SID: vqhYz5qc97QyjSx5AAAD)
+2025-04-11 08:48:32,302 [DEBUG] Progresso de envio: 98.0% (SID: vqhYz5qc97QyjSx5AAAD)
+2025-04-11 08:48:35,746 [DEBUG] Progresso de envio: 100.0% (SID: vqhYz5qc97QyjSx5AAAD)
+2025-04-11 08:48:39,191 [DEBUG] Range header recebido: null
+2025-04-11 08:48:39,193 [ERROR] Erro ao processar download: 'NoneType' object has no attribute 'ranges'
+Traceback (most recent call last):
+  File "C:\app\appclip\backend\app.py", line 78, in download
+    start = range_obj.ranges[0][0] if range_obj.ranges else 0
+                                      ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'ranges'
+
+2025-04-11 08:48:39,193 [INFO] 192.168.143.21 - - [11/Apr/2025 08:48:39] "[35m[1mPOST /download HTTP/1.1[0m" 500 -
+2025-04-11 08:48:39,387 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 08:48:39,388 [INFO] 192.168.143.21 - - [11/Apr/2025 08:48:39] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 08:51:04,573 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-11 08:51:04,573 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-11 08:51:04,633 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:04] "GET /socket.io/?EIO=4&transport=polling&t=q7gdi6s8 HTTP/1.1" 200 -
+2025-04-11 08:51:04,685 [INFO] Cliente conectado: HoyWpB-dDJwcVu1fAAAB
+2025-04-11 08:51:04,685 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:04] "POST /socket.io/?EIO=4&transport=polling&t=q7hlb9ct&sid=qdz1NUFiENkjA7QSAAAA HTTP/1.1" 200 -
+2025-04-11 08:51:04,685 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:04] "GET /socket.io/?EIO=4&transport=polling&t=q7hleuou&sid=qdz1NUFiENkjA7QSAAAA HTTP/1.1" 200 -
+2025-04-11 08:51:04,718 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:04] "GET /socket.io/?EIO=4&transport=polling&t=q7hmnj8q&sid=qdz1NUFiENkjA7QSAAAA HTTP/1.1" 200 -
+2025-04-11 08:51:10,630 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:10] "GET / HTTP/1.1" 200 -
+2025-04-11 08:51:10,670 [INFO] Cliente desconectado: HoyWpB-dDJwcVu1fAAAB
+2025-04-11 08:51:10,670 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:10] "GET /socket.io/?EIO=4&transport=websocket&sid=qdz1NUFiENkjA7QSAAAA HTTP/1.1" 200 -
+2025-04-11 08:51:10,704 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 08:51:10,728 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:10] "GET /socket.io/?EIO=4&transport=polling&t=q7m9h2j3 HTTP/1.1" 200 -
+2025-04-11 08:51:10,754 [INFO] Cliente conectado: tkiZHQtETPQhrnzJAAAD
+2025-04-11 08:51:10,755 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:10] "POST /socket.io/?EIO=4&transport=polling&t=q7ma4l0i&sid=qndYqVNvEzwZiY98AAAC HTTP/1.1" 200 -
+2025-04-11 08:51:10,755 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:10] "GET /socket.io/?EIO=4&transport=polling&t=q7ma4xqi&sid=qndYqVNvEzwZiY98AAAC HTTP/1.1" 200 -
+2025-04-11 08:51:10,771 [INFO] 192.168.143.21 - - [11/Apr/2025 08:51:10] "GET /socket.io/?EIO=4&transport=polling&t=q7mas4ie&sid=qndYqVNvEzwZiY98AAAC HTTP/1.1" 200 -
+2025-04-11 08:51:13,277 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=ympv0UdDjS8 (SID: tkiZHQtETPQhrnzJAAAD)
+2025-04-11 08:54:11,926 [INFO] Arquivo baixado e mesclado: downloads\Se Todo Mundo Te Ama, Ninguém Liga Pra Você – Fábio Akita_b5c8dc08-4b4d-4d46-805d-bab173a4f363.mp4
+2025-04-11 08:54:11,926 [DEBUG] Progresso de envio: 92.0% (SID: tkiZHQtETPQhrnzJAAAD)
+2025-04-11 08:54:15,371 [DEBUG] Progresso de envio: 94.0% (SID: tkiZHQtETPQhrnzJAAAD)
+2025-04-11 08:54:18,816 [DEBUG] Progresso de envio: 96.0% (SID: tkiZHQtETPQhrnzJAAAD)
+2025-04-11 08:54:22,260 [DEBUG] Progresso de envio: 98.0% (SID: tkiZHQtETPQhrnzJAAAD)
+2025-04-11 08:54:25,705 [DEBUG] Progresso de envio: 100.0% (SID: tkiZHQtETPQhrnzJAAAD)
+2025-04-11 08:54:29,149 [DEBUG] Iniciando envio do arquivo: downloads\Se Todo Mundo Te Ama, Ninguém Liga Pra Você – Fábio Akita_b5c8dc08-4b4d-4d46-805d-bab173a4f363.mp4
+2025-04-11 08:54:29,150 [INFO] Arquivo downloads\Se Todo Mundo Te Ama, Ninguém Liga Pra Você – Fábio Akita_b5c8dc08-4b4d-4d46-805d-bab173a4f363.mp4 enviado com sucesso como Se_Todo_Mundo_Te_Ama__Ningu_m_Liga_Pra_Voc____F_bio_Akita_b5c8dc08-4b4d-4d46-805d-bab173a4f363.mp4.
+2025-04-11 08:54:29,150 [INFO] 192.168.143.21 - - [11/Apr/2025 08:54:29] "POST /download HTTP/1.1" 200 -
+2025-04-11 08:54:42,676 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 08:54:42,676 [INFO] 192.168.143.21 - - [11/Apr/2025 08:54:42] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 09:03:46,958 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-11 09:03:46,958 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-11 09:03:47,136 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:47] "GET /socket.io/?EIO=4&transport=polling&t=qnscdcn2 HTTP/1.1" 200 -
+2025-04-11 09:03:47,182 [INFO] Cliente conectado: mDoe7xGd1kBSKTeGAAAB
+2025-04-11 09:03:47,182 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:47] "POST /socket.io/?EIO=4&transport=polling&t=qntxu6r8&sid=SYobWSF3KKyxTkuSAAAA HTTP/1.1" 200 -
+2025-04-11 09:03:47,183 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:47] "GET /socket.io/?EIO=4&transport=polling&t=qntxvawe&sid=SYobWSF3KKyxTkuSAAAA HTTP/1.1" 200 -
+2025-04-11 09:03:53,405 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:53] "GET / HTTP/1.1" 200 -
+2025-04-11 09:03:53,441 [INFO] Cliente desconectado: mDoe7xGd1kBSKTeGAAAB
+2025-04-11 09:03:53,442 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:53] "GET /socket.io/?EIO=4&transport=websocket&sid=SYobWSF3KKyxTkuSAAAA HTTP/1.1" 200 -
+2025-04-11 09:03:53,528 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:53] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-11 09:03:53,573 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:53] "GET /socket.io/?EIO=4&transport=polling&t=qnyvhgzh HTTP/1.1" 200 -
+2025-04-11 09:03:53,610 [INFO] Cliente conectado: eqaxaXo22rCS4XlAAAAD
+2025-04-11 09:03:53,610 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:53] "POST /socket.io/?EIO=4&transport=polling&t=qnywewh0&sid=E-8MzrDeu53ci11AAAAC HTTP/1.1" 200 -
+2025-04-11 09:03:53,611 [INFO] 192.168.143.21 - - [11/Apr/2025 09:03:53] "GET /socket.io/?EIO=4&transport=polling&t=qnyweqqj&sid=E-8MzrDeu53ci11AAAAC HTTP/1.1" 200 -
+2025-04-11 09:03:57,519 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=ympv0UdDjS8 (SID: eqaxaXo22rCS4XlAAAAD)
+2025-04-11 09:06:10,544 [INFO] Arquivo baixado e mesclado: downloads\Se Todo Mundo Te Ama, Ninguém Liga Pra Você – Fábio Akita_7e821f05-7dcc-459f-9192-df232d3c175f.mp4
+2025-04-11 09:06:10,545 [DEBUG] Progresso de envio: 92.0% (SID: eqaxaXo22rCS4XlAAAAD)
+2025-04-11 09:06:10,645 [DEBUG] Progresso de envio: 94.0% (SID: eqaxaXo22rCS4XlAAAAD)
+2025-04-11 09:06:10,746 [DEBUG] Progresso de envio: 96.0% (SID: eqaxaXo22rCS4XlAAAAD)
+2025-04-11 09:06:10,847 [DEBUG] Progresso de envio: 98.0% (SID: eqaxaXo22rCS4XlAAAAD)
+2025-04-11 09:06:10,948 [DEBUG] Progresso de envio: 100.0% (SID: eqaxaXo22rCS4XlAAAAD)
+2025-04-11 09:06:11,048 [DEBUG] Iniciando envio do arquivo: downloads\Se Todo Mundo Te Ama, Ninguém Liga Pra Você – Fábio Akita_7e821f05-7dcc-459f-9192-df232d3c175f.mp4
+2025-04-11 09:06:11,074 [INFO] Arquivo downloads\Se Todo Mundo Te Ama, Ninguém Liga Pra Você – Fábio Akita_7e821f05-7dcc-459f-9192-df232d3c175f.mp4 enviado com sucesso como Se_Todo_Mundo_Te_Ama__Ningu_m_Liga_Pra_Voc____F_bio_Akita_7e821f05-7dcc-459f-9192-df232d3c175f.mp4.
+2025-04-11 09:06:11,074 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:11] "POST /download HTTP/1.1" 200 -
+2025-04-11 09:06:27,250 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 09:06:27,251 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:27] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 09:06:54,792 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:54] "GET / HTTP/1.1" 200 -
+2025-04-11 09:06:54,808 [INFO] Cliente desconectado: eqaxaXo22rCS4XlAAAAD
+2025-04-11 09:06:54,808 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:54] "GET /socket.io/?EIO=4&transport=websocket&sid=E-8MzrDeu53ci11AAAAC HTTP/1.1" 200 -
+2025-04-11 09:06:54,819 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:06:54,835 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:54] "GET /socket.io/?EIO=4&transport=polling&t=qruqt4nb HTTP/1.1" 200 -
+2025-04-11 09:06:54,874 [INFO] Cliente conectado: gREl1dsUvdq_LoAwAAAF
+2025-04-11 09:06:54,874 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:54] "POST /socket.io/?EIO=4&transport=polling&t=qrurrv14&sid=zUDu5K9nP6OFVNOYAAAE HTTP/1.1" 200 -
+2025-04-11 09:06:54,875 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:54] "GET /socket.io/?EIO=4&transport=polling&t=qrurr1n6&sid=zUDu5K9nP6OFVNOYAAAE HTTP/1.1" 200 -
+2025-04-11 09:06:54,892 [INFO] 192.168.143.21 - - [11/Apr/2025 09:06:54] "GET /socket.io/?EIO=4&transport=polling&t=qruse5he&sid=zUDu5K9nP6OFVNOYAAAE HTTP/1.1" 200 -
+2025-04-11 09:06:57,370 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=n41y80RBjm8 (SID: gREl1dsUvdq_LoAwAAAF)
+2025-04-11 09:09:01,665 [INFO] Arquivo baixado e mesclado: downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_eebec532-ede4-4de7-91f9-07e266b98387.mp4
+2025-04-11 09:09:01,665 [DEBUG] Progresso de envio: 92.0% (SID: gREl1dsUvdq_LoAwAAAF)
+2025-04-11 09:09:01,766 [DEBUG] Progresso de envio: 94.0% (SID: gREl1dsUvdq_LoAwAAAF)
+2025-04-11 09:09:01,867 [DEBUG] Progresso de envio: 96.0% (SID: gREl1dsUvdq_LoAwAAAF)
+2025-04-11 09:09:01,967 [DEBUG] Progresso de envio: 98.0% (SID: gREl1dsUvdq_LoAwAAAF)
+2025-04-11 09:09:02,068 [DEBUG] Progresso de envio: 100.0% (SID: gREl1dsUvdq_LoAwAAAF)
+2025-04-11 09:09:02,168 [DEBUG] Iniciando envio do arquivo: downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_eebec532-ede4-4de7-91f9-07e266b98387.mp4
+2025-04-11 09:09:02,186 [INFO] Arquivo downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_eebec532-ede4-4de7-91f9-07e266b98387.mp4 enviado com sucesso como Press_o__Ansiedade_e_Frustra__o__A_Verdade_Crua_do_Cargo_de_Tech_Lead_eebec532-ede4-4de7-91f9-07e266b98387.mp4.
+2025-04-11 09:09:02,187 [INFO] 192.168.143.21 - - [11/Apr/2025 09:09:02] "POST /download HTTP/1.1" 200 -
+2025-04-11 09:09:22,703 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 09:09:22,704 [INFO] 192.168.143.21 - - [11/Apr/2025 09:09:22] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 09:15:07,889 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:07] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:07,905 [INFO] Cliente desconectado: gREl1dsUvdq_LoAwAAAF
+2025-04-11 09:15:07,906 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:07] "GET /socket.io/?EIO=4&transport=websocket&sid=zUDu5K9nP6OFVNOYAAAE HTTP/1.1" 200 -
+2025-04-11 09:15:07,983 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:08,001 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:08] "GET /socket.io/?EIO=4&transport=polling&t=r2f9wqx6 HTTP/1.1" 200 -
+2025-04-11 09:15:08,040 [INFO] Cliente conectado: kA6OkOexa492ZA-PAAAH
+2025-04-11 09:15:08,040 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:08] "POST /socket.io/?EIO=4&transport=polling&t=r2fatm8p&sid=0zTek5njIzWKJjX5AAAG HTTP/1.1" 200 -
+2025-04-11 09:15:08,040 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:08] "GET /socket.io/?EIO=4&transport=polling&t=r2fau1rf&sid=0zTek5njIzWKJjX5AAAG HTTP/1.1" 200 -
+2025-04-11 09:15:09,838 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:09] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:09,855 [INFO] Cliente desconectado: kA6OkOexa492ZA-PAAAH
+2025-04-11 09:15:09,855 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:09] "GET /socket.io/?EIO=4&transport=websocket&sid=0zTek5njIzWKJjX5AAAG HTTP/1.1" 200 -
+2025-04-11 09:15:09,867 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:09,884 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:09] "GET /socket.io/?EIO=4&transport=polling&t=r2gq6kmo HTTP/1.1" 200 -
+2025-04-11 09:15:09,940 [INFO] Cliente conectado: BVvRy6w4bz77yDPvAAAJ
+2025-04-11 09:15:09,940 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:09] "POST /socket.io/?EIO=4&transport=polling&t=r2grepjv&sid=jMZ2CwkNmmAFkbzAAAAI HTTP/1.1" 200 -
+2025-04-11 09:15:09,940 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:09] "GET /socket.io/?EIO=4&transport=polling&t=r2grf01o&sid=jMZ2CwkNmmAFkbzAAAAI HTTP/1.1" 200 -
+2025-04-11 09:15:14,699 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:14] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:14,713 [INFO] Cliente desconectado: BVvRy6w4bz77yDPvAAAJ
+2025-04-11 09:15:14,713 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:14] "GET /socket.io/?EIO=4&transport=websocket&sid=jMZ2CwkNmmAFkbzAAAAI HTTP/1.1" 200 -
+2025-04-11 09:15:14,725 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:14,744 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:14] "GET /socket.io/?EIO=4&transport=polling&t=r2kh34m5 HTTP/1.1" 200 -
+2025-04-11 09:15:14,792 [INFO] Cliente conectado: coKYXvD90zC-Y6qeAAAL
+2025-04-11 09:15:14,792 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:14] "POST /socket.io/?EIO=4&transport=polling&t=r2kictrd&sid=XvaKlL4Qi5Rw5IZ-AAAK HTTP/1.1" 200 -
+2025-04-11 09:15:14,792 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:14] "GET /socket.io/?EIO=4&transport=polling&t=r2kidjc4&sid=XvaKlL4Qi5Rw5IZ-AAAK HTTP/1.1" 200 -
+2025-04-11 09:15:15,315 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:15,335 [INFO] Cliente desconectado: coKYXvD90zC-Y6qeAAAL
+2025-04-11 09:15:15,335 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "GET /socket.io/?EIO=4&transport=websocket&sid=XvaKlL4Qi5Rw5IZ-AAAK HTTP/1.1" 200 -
+2025-04-11 09:15:15,344 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:15,358 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "GET /socket.io/?EIO=4&transport=polling&t=r2kyblxo HTTP/1.1" 200 -
+2025-04-11 09:15:15,391 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "GET /socket.io/?EIO=4&transport=polling&t=r2kz6blu&sid=s-tc3WmaJ-HzUFn-AAAM HTTP/1.1" 200 -
+2025-04-11 09:15:15,397 [INFO] Cliente conectado: z0HYvgpymkyLRZC3AAAN
+2025-04-11 09:15:15,397 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "POST /socket.io/?EIO=4&transport=polling&t=r2kz6owf&sid=s-tc3WmaJ-HzUFn-AAAM HTTP/1.1" 200 -
+2025-04-11 09:15:15,621 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:15,635 [INFO] Cliente desconectado: z0HYvgpymkyLRZC3AAAN
+2025-04-11 09:15:15,636 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "GET /socket.io/?EIO=4&transport=websocket&sid=s-tc3WmaJ-HzUFn-AAAM HTTP/1.1" 200 -
+2025-04-11 09:15:15,647 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:15,659 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "GET /socket.io/?EIO=4&transport=polling&t=r2l6obtq HTTP/1.1" 200 -
+2025-04-11 09:15:15,695 [INFO] Cliente conectado: q3hgwbrend5WklIvAAAP
+2025-04-11 09:15:15,696 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "POST /socket.io/?EIO=4&transport=polling&t=r2l7h0fr&sid=Gwg3D7PEmPKhNz86AAAO HTTP/1.1" 200 -
+2025-04-11 09:15:15,696 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:15] "GET /socket.io/?EIO=4&transport=polling&t=r2l7hbjs&sid=Gwg3D7PEmPKhNz86AAAO HTTP/1.1" 200 -
+2025-04-11 09:15:25,069 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:25] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:25,082 [INFO] Cliente desconectado: q3hgwbrend5WklIvAAAP
+2025-04-11 09:15:25,082 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:25] "GET /socket.io/?EIO=4&transport=websocket&sid=Gwg3D7PEmPKhNz86AAAO HTTP/1.1" 200 -
+2025-04-11 09:15:25,093 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:25,109 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:25] "GET /socket.io/?EIO=4&transport=polling&t=r2sh3kcn HTTP/1.1" 200 -
+2025-04-11 09:15:25,142 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:25] "GET /socket.io/?EIO=4&transport=polling&t=r2shzpl3&sid=YDtA3FHoKIA6Bmh8AAAQ HTTP/1.1" 200 -
+2025-04-11 09:15:25,145 [INFO] Cliente conectado: gbkZuIPECsf0pG4QAAAR
+2025-04-11 09:15:25,145 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:25] "POST /socket.io/?EIO=4&transport=polling&t=r2shzk5q&sid=YDtA3FHoKIA6Bmh8AAAQ HTTP/1.1" 200 -
+2025-04-11 09:15:25,159 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:25] "GET /socket.io/?EIO=4&transport=polling&t=r2siktc9&sid=YDtA3FHoKIA6Bmh8AAAQ HTTP/1.1" 200 -
+2025-04-11 09:15:40,669 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:40] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:40,686 [INFO] Cliente desconectado: gbkZuIPECsf0pG4QAAAR
+2025-04-11 09:15:40,686 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:40] "GET /socket.io/?EIO=4&transport=websocket&sid=YDtA3FHoKIA6Bmh8AAAQ HTTP/1.1" 200 -
+2025-04-11 09:15:40,697 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:40,714 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:40] "GET /socket.io/?EIO=4&transport=polling&t=r34ik4j9 HTTP/1.1" 200 -
+2025-04-11 09:15:40,757 [INFO] Cliente conectado: FRsa9UB9CoSmlbfCAAAT
+2025-04-11 09:15:40,757 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:40] "POST /socket.io/?EIO=4&transport=polling&t=r34jmws2&sid=UKN2OQs-h50LeZTHAAAS HTTP/1.1" 200 -
+2025-04-11 09:15:40,758 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:40] "GET /socket.io/?EIO=4&transport=polling&t=r34jnfpr&sid=UKN2OQs-h50LeZTHAAAS HTTP/1.1" 200 -
+2025-04-11 09:15:47,552 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:47] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:47,566 [INFO] Cliente desconectado: FRsa9UB9CoSmlbfCAAAT
+2025-04-11 09:15:47,566 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:47] "GET /socket.io/?EIO=4&transport=websocket&sid=UKN2OQs-h50LeZTHAAAS HTTP/1.1" 200 -
+2025-04-11 09:15:47,577 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:47,593 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:47] "GET /socket.io/?EIO=4&transport=polling&t=r39to4di HTTP/1.1" 200 -
+2025-04-11 09:15:47,639 [INFO] Cliente conectado: DTpGXu-yYDRQgysdAAAV
+2025-04-11 09:15:47,640 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:47] "POST /socket.io/?EIO=4&transport=polling&t=r39uoykg&sid=51POK6asnoXsGa3RAAAU HTTP/1.1" 200 -
+2025-04-11 09:15:47,640 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:47] "GET /socket.io/?EIO=4&transport=polling&t=r39up45y&sid=51POK6asnoXsGa3RAAAU HTTP/1.1" 200 -
+2025-04-11 09:15:48,908 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:48] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:48,921 [INFO] Cliente desconectado: DTpGXu-yYDRQgysdAAAV
+2025-04-11 09:15:48,921 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:48] "GET /socket.io/?EIO=4&transport=websocket&sid=51POK6asnoXsGa3RAAAU HTTP/1.1" 200 -
+2025-04-11 09:15:48,934 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:48,952 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:48] "GET /socket.io/?EIO=4&transport=polling&t=r3ave6on HTTP/1.1" 200 -
+2025-04-11 09:15:48,997 [INFO] Cliente conectado: BzyQIU2O3CNBoWfwAAAX
+2025-04-11 09:15:48,997 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:48] "POST /socket.io/?EIO=4&transport=polling&t=r3awhbzv&sid=9CUIjhH01VMF0rDRAAAW HTTP/1.1" 200 -
+2025-04-11 09:15:48,997 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:48] "GET /socket.io/?EIO=4&transport=polling&t=r3awixa3&sid=9CUIjhH01VMF0rDRAAAW HTTP/1.1" 200 -
+2025-04-11 09:15:49,020 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:49] "GET /socket.io/?EIO=4&transport=polling&t=r3axcxht&sid=9CUIjhH01VMF0rDRAAAW HTTP/1.1" 200 -
+2025-04-11 09:15:55,898 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:55] "GET / HTTP/1.1" 200 -
+2025-04-11 09:15:55,911 [INFO] Cliente desconectado: BzyQIU2O3CNBoWfwAAAX
+2025-04-11 09:15:55,911 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:55] "GET /socket.io/?EIO=4&transport=websocket&sid=9CUIjhH01VMF0rDRAAAW HTTP/1.1" 200 -
+2025-04-11 09:15:55,923 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:15:55,938 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:55] "GET /socket.io/?EIO=4&transport=polling&t=r3g9hg7m HTTP/1.1" 200 -
+2025-04-11 09:15:55,980 [INFO] Cliente conectado: cD_qsgTd3Jam0qp_AAAZ
+2025-04-11 09:15:55,980 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:55] "POST /socket.io/?EIO=4&transport=polling&t=r3gah2bi&sid=IKnPtzb-nebbTlV7AAAY HTTP/1.1" 200 -
+2025-04-11 09:15:55,980 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:55] "GET /socket.io/?EIO=4&transport=polling&t=r3gahnco&sid=IKnPtzb-nebbTlV7AAAY HTTP/1.1" 200 -
+2025-04-11 09:15:56,000 [INFO] 192.168.143.21 - - [11/Apr/2025 09:15:56] "GET /socket.io/?EIO=4&transport=polling&t=r3gb8kom&sid=IKnPtzb-nebbTlV7AAAY HTTP/1.1" 200 -
+2025-04-11 09:16:06,719 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=n41y80RBjm8 (SID: cD_qsgTd3Jam0qp_AAAZ)
+2025-04-11 09:18:11,494 [INFO] Arquivo baixado e mesclado: downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_5d21d9fc-2975-447c-8578-c75fa70273d0.mp4
+2025-04-11 09:18:11,495 [DEBUG] Progresso de envio: 92.0% (SID: cD_qsgTd3Jam0qp_AAAZ)
+2025-04-11 09:18:11,595 [DEBUG] Progresso de envio: 94.0% (SID: cD_qsgTd3Jam0qp_AAAZ)
+2025-04-11 09:18:11,696 [DEBUG] Progresso de envio: 96.0% (SID: cD_qsgTd3Jam0qp_AAAZ)
+2025-04-11 09:18:11,796 [DEBUG] Progresso de envio: 98.0% (SID: cD_qsgTd3Jam0qp_AAAZ)
+2025-04-11 09:18:11,896 [DEBUG] Progresso de envio: 100.0% (SID: cD_qsgTd3Jam0qp_AAAZ)
+2025-04-11 09:18:11,996 [DEBUG] Iniciando envio do arquivo: downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_5d21d9fc-2975-447c-8578-c75fa70273d0.mp4
+2025-04-11 09:18:11,997 [INFO] Arquivo downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_5d21d9fc-2975-447c-8578-c75fa70273d0.mp4 enviado com sucesso como Press_o__Ansiedade_e_Frustra__o__A_Verdade_Crua_do_Cargo_de_Tech_Lead_5d21d9fc-2975-447c-8578-c75fa70273d0.mp4.
+2025-04-11 09:18:11,997 [INFO] 192.168.143.21 - - [11/Apr/2025 09:18:11] "POST /download HTTP/1.1" 200 -
+2025-04-11 09:18:26,375 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 09:18:26,376 [INFO] 192.168.143.21 - - [11/Apr/2025 09:18:26] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 09:19:26,830 [INFO] 192.168.143.21 - - [11/Apr/2025 09:19:26] "GET / HTTP/1.1" 200 -
+2025-04-11 09:19:26,847 [INFO] Cliente desconectado: cD_qsgTd3Jam0qp_AAAZ
+2025-04-11 09:19:26,847 [INFO] 192.168.143.21 - - [11/Apr/2025 09:19:26] "GET /socket.io/?EIO=4&transport=websocket&sid=IKnPtzb-nebbTlV7AAAY HTTP/1.1" 200 -
+2025-04-11 09:19:26,860 [INFO] 192.168.143.21 - - [11/Apr/2025 09:19:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:19:26,876 [INFO] 192.168.143.21 - - [11/Apr/2025 09:19:26] "GET /socket.io/?EIO=4&transport=polling&t=r7z0su8e HTTP/1.1" 200 -
+2025-04-11 09:19:26,916 [INFO] 192.168.143.21 - - [11/Apr/2025 09:19:26] "GET /socket.io/?EIO=4&transport=polling&t=r7z1wmm8&sid=MtRW5rk7Ac1yPDTpAAAa HTTP/1.1" 200 -
+2025-04-11 09:19:26,922 [INFO] Cliente conectado: 3_swH0ZtOSIGwAL3AAAb
+2025-04-11 09:19:26,922 [INFO] 192.168.143.21 - - [11/Apr/2025 09:19:26] "POST /socket.io/?EIO=4&transport=polling&t=r7z1v7jo&sid=MtRW5rk7Ac1yPDTpAAAa HTTP/1.1" 200 -
+2025-04-11 09:19:26,937 [INFO] 192.168.143.21 - - [11/Apr/2025 09:19:26] "GET /socket.io/?EIO=4&transport=polling&t=r7z2ihjg&sid=MtRW5rk7Ac1yPDTpAAAa HTTP/1.1" 200 -
+2025-04-11 09:21:21,041 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=n41y80RBjm8 (SID: 3_swH0ZtOSIGwAL3AAAb)
+2025-04-11 09:23:23,658 [INFO] Arquivo baixado e mesclado: downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_4c569df7-1aad-4176-9abc-0f9439848f0c.mp4
+2025-04-11 09:23:23,658 [DEBUG] Progresso de envio: 92.0% (SID: 3_swH0ZtOSIGwAL3AAAb)
+2025-04-11 09:23:23,759 [DEBUG] Progresso de envio: 94.0% (SID: 3_swH0ZtOSIGwAL3AAAb)
+2025-04-11 09:23:23,859 [DEBUG] Progresso de envio: 96.0% (SID: 3_swH0ZtOSIGwAL3AAAb)
+2025-04-11 09:23:23,959 [DEBUG] Progresso de envio: 98.0% (SID: 3_swH0ZtOSIGwAL3AAAb)
+2025-04-11 09:23:24,060 [DEBUG] Progresso de envio: 100.0% (SID: 3_swH0ZtOSIGwAL3AAAb)
+2025-04-11 09:23:24,160 [DEBUG] Iniciando envio do arquivo: downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_4c569df7-1aad-4176-9abc-0f9439848f0c.mp4
+2025-04-11 09:23:24,161 [INFO] Arquivo downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_4c569df7-1aad-4176-9abc-0f9439848f0c.mp4 enviado com sucesso como Press_o__Ansiedade_e_Frustra__o__A_Verdade_Crua_do_Cargo_de_Tech_Lead_4c569df7-1aad-4176-9abc-0f9439848f0c.mp4.
+2025-04-11 09:23:24,161 [INFO] 192.168.143.21 - - [11/Apr/2025 09:23:24] "POST /download HTTP/1.1" 200 -
+2025-04-11 09:23:38,088 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 09:23:38,088 [INFO] 192.168.143.21 - - [11/Apr/2025 09:23:38] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 09:28:19,386 [INFO] 192.168.143.21 - - [11/Apr/2025 09:28:19] "GET / HTTP/1.1" 200 -
+2025-04-11 09:28:19,401 [INFO] Cliente desconectado: 3_swH0ZtOSIGwAL3AAAb
+2025-04-11 09:28:19,401 [INFO] 192.168.143.21 - - [11/Apr/2025 09:28:19] "GET /socket.io/?EIO=4&transport=websocket&sid=MtRW5rk7Ac1yPDTpAAAa HTTP/1.1" 200 -
+2025-04-11 09:28:19,466 [INFO] 192.168.143.21 - - [11/Apr/2025 09:28:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:28:19,481 [INFO] 192.168.143.21 - - [11/Apr/2025 09:28:19] "GET /socket.io/?EIO=4&transport=polling&t=rjdzghsz HTTP/1.1" 200 -
+2025-04-11 09:28:19,522 [INFO] Cliente conectado: uS400VXmHLgmMre0AAAd
+2025-04-11 09:28:19,522 [INFO] 192.168.143.21 - - [11/Apr/2025 09:28:19] "POST /socket.io/?EIO=4&transport=polling&t=rje0eezz&sid=3CQnMKffe4tIILmqAAAc HTTP/1.1" 200 -
+2025-04-11 09:28:19,523 [INFO] 192.168.143.21 - - [11/Apr/2025 09:28:19] "GET /socket.io/?EIO=4&transport=polling&t=rje0eo4m&sid=3CQnMKffe4tIILmqAAAc HTTP/1.1" 200 -
+2025-04-11 09:30:43,510 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.151.231:5000
+2025-04-11 09:30:43,510 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-11 09:30:43,594 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:43] "GET /socket.io/?EIO=4&transport=polling&t=rmfsby77 HTTP/1.1" 200 -
+2025-04-11 09:30:43,635 [INFO] Cliente conectado: BI-mK-hUGZLd968QAAAB
+2025-04-11 09:30:43,635 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:43] "POST /socket.io/?EIO=4&transport=polling&t=rmh7gkga&sid=zjcJSsbeqFXvivSmAAAA HTTP/1.1" 200 -
+2025-04-11 09:30:43,635 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:43] "GET /socket.io/?EIO=4&transport=polling&t=rmh7hsu4&sid=zjcJSsbeqFXvivSmAAAA HTTP/1.1" 200 -
+2025-04-11 09:30:44,315 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:44] "GET / HTTP/1.1" 200 -
+2025-04-11 09:30:44,343 [INFO] Cliente desconectado: BI-mK-hUGZLd968QAAAB
+2025-04-11 09:30:44,344 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:44] "GET /socket.io/?EIO=4&transport=websocket&sid=zjcJSsbeqFXvivSmAAAA HTTP/1.1" 200 -
+2025-04-11 09:30:44,375 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:44] "GET /static/style.css HTTP/1.1" 200 -
+2025-04-11 09:30:44,407 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:44] "GET /socket.io/?EIO=4&transport=polling&t=rmht3zi7 HTTP/1.1" 200 -
+2025-04-11 09:30:44,439 [INFO] Cliente conectado: gdCZ-92QKiH-8YIbAAAD
+2025-04-11 09:30:44,439 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:44] "POST /socket.io/?EIO=4&transport=polling&t=rmhtr78i&sid=ZjIcSLOQd5s5OefrAAAC HTTP/1.1" 200 -
+2025-04-11 09:30:44,439 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:44] "GET /socket.io/?EIO=4&transport=polling&t=rmhtsemj&sid=ZjIcSLOQd5s5OefrAAAC HTTP/1.1" 200 -
+2025-04-11 09:30:44,456 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:44] "GET /socket.io/?EIO=4&transport=polling&t=rmhuke17&sid=ZjIcSLOQd5s5OefrAAAC HTTP/1.1" 200 -
+2025-04-11 09:30:46,214 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:46] "GET / HTTP/1.1" 200 -
+2025-04-11 09:30:46,229 [INFO] Cliente desconectado: gdCZ-92QKiH-8YIbAAAD
+2025-04-11 09:30:46,229 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:46] "GET /socket.io/?EIO=4&transport=websocket&sid=ZjIcSLOQd5s5OefrAAAC HTTP/1.1" 200 -
+2025-04-11 09:30:46,241 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:30:46,255 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:46] "GET /socket.io/?EIO=4&transport=polling&t=rmj8i3dd HTTP/1.1" 200 -
+2025-04-11 09:30:46,310 [INFO] Cliente conectado: us8i-hK1DmfrOar1AAAF
+2025-04-11 09:30:46,310 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:46] "POST /socket.io/?EIO=4&transport=polling&t=rmj9qhq3&sid=KqH_FU2Izw414aGYAAAE HTTP/1.1" 200 -
+2025-04-11 09:30:46,310 [INFO] 192.168.143.21 - - [11/Apr/2025 09:30:46] "GET /socket.io/?EIO=4&transport=polling&t=rmj9q3sl&sid=KqH_FU2Izw414aGYAAAE HTTP/1.1" 200 -
+2025-04-11 09:30:49,920 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=n41y80RBjm8 (SID: us8i-hK1DmfrOar1AAAF)
+2025-04-11 09:32:52,990 [INFO] Arquivo baixado e mesclado: downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_af250fdf-9c16-4dd8-9b8a-fa4e3342533d.mp4
+2025-04-11 09:32:52,991 [DEBUG] Progresso de envio: 92.0% (SID: us8i-hK1DmfrOar1AAAF)
+2025-04-11 09:32:53,091 [DEBUG] Progresso de envio: 94.0% (SID: us8i-hK1DmfrOar1AAAF)
+2025-04-11 09:32:53,191 [DEBUG] Progresso de envio: 96.0% (SID: us8i-hK1DmfrOar1AAAF)
+2025-04-11 09:32:53,292 [DEBUG] Progresso de envio: 98.0% (SID: us8i-hK1DmfrOar1AAAF)
+2025-04-11 09:32:53,392 [DEBUG] Progresso de envio: 100.0% (SID: us8i-hK1DmfrOar1AAAF)
+2025-04-11 09:32:53,492 [DEBUG] Iniciando envio do arquivo: downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_af250fdf-9c16-4dd8-9b8a-fa4e3342533d.mp4
+2025-04-11 09:32:53,493 [INFO] Arquivo downloads\Pressão, Ansiedade e Frustração\uff1a A Verdade Crua do Cargo de Tech Lead_af250fdf-9c16-4dd8-9b8a-fa4e3342533d.mp4 enviado com sucesso como Press_o__Ansiedade_e_Frustra__o__A_Verdade_Crua_do_Cargo_de_Tech_Lead_af250fdf-9c16-4dd8-9b8a-fa4e3342533d.mp4.
+2025-04-11 09:32:53,493 [INFO] 192.168.143.21 - - [11/Apr/2025 09:32:53] "POST /download HTTP/1.1" 200 -
+2025-04-11 09:33:06,800 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 09:33:06,800 [INFO] 192.168.143.21 - - [11/Apr/2025 09:33:06] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 09:33:07,830 [INFO] 192.168.143.21 - - [11/Apr/2025 09:33:07] "GET / HTTP/1.1" 200 -
+2025-04-11 09:33:07,846 [INFO] Cliente desconectado: us8i-hK1DmfrOar1AAAF
+2025-04-11 09:33:07,847 [INFO] 192.168.143.21 - - [11/Apr/2025 09:33:07] "GET /socket.io/?EIO=4&transport=websocket&sid=KqH_FU2Izw414aGYAAAE HTTP/1.1" 200 -
+2025-04-11 09:33:07,864 [INFO] 192.168.143.21 - - [11/Apr/2025 09:33:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:33:07,882 [INFO] 192.168.143.21 - - [11/Apr/2025 09:33:07] "GET /socket.io/?EIO=4&transport=polling&t=rpkiic6z HTTP/1.1" 200 -
+2025-04-11 09:33:07,923 [INFO] Cliente conectado: mCI71TIEDGqUWlBPAAAH
+2025-04-11 09:33:07,923 [INFO] 192.168.143.21 - - [11/Apr/2025 09:33:07] "POST /socket.io/?EIO=4&transport=polling&t=rpkjkorm&sid=V0FBs-hb-4nslkN-AAAG HTTP/1.1" 200 -
+2025-04-11 09:33:07,923 [INFO] 192.168.143.21 - - [11/Apr/2025 09:33:07] "GET /socket.io/?EIO=4&transport=polling&t=rpkjkf83&sid=V0FBs-hb-4nslkN-AAAG HTTP/1.1" 200 -
+2025-04-11 09:33:07,943 [INFO] 192.168.143.21 - - [11/Apr/2025 09:33:07] "GET /socket.io/?EIO=4&transport=polling&t=rpkkagka&sid=V0FBs-hb-4nslkN-AAAG HTTP/1.1" 200 -
+2025-04-11 09:33:34,473 [INFO] Iniciando download da URL: https://www.youtube.com/watch?v=ukpofHhPKX8 (SID: mCI71TIEDGqUWlBPAAAH)
+2025-04-11 09:37:22,270 [INFO] Arquivo baixado e mesclado: downloads\MARCUS BUCHECHA REVELA TUDO SOBRE POSSÍVEL FUTURO NO UFC E NO JIU JITSU_76697da6-0077-4df2-a84d-4e3c537733dd.mp4
+2025-04-11 09:37:22,271 [DEBUG] Progresso de envio: 92.0% (SID: mCI71TIEDGqUWlBPAAAH)
+2025-04-11 09:37:22,371 [DEBUG] Progresso de envio: 94.0% (SID: mCI71TIEDGqUWlBPAAAH)
+2025-04-11 09:37:22,472 [DEBUG] Progresso de envio: 96.0% (SID: mCI71TIEDGqUWlBPAAAH)
+2025-04-11 09:37:22,572 [DEBUG] Progresso de envio: 98.0% (SID: mCI71TIEDGqUWlBPAAAH)
+2025-04-11 09:37:22,672 [DEBUG] Progresso de envio: 100.0% (SID: mCI71TIEDGqUWlBPAAAH)
+2025-04-11 09:37:22,772 [DEBUG] Iniciando envio do arquivo: downloads\MARCUS BUCHECHA REVELA TUDO SOBRE POSSÍVEL FUTURO NO UFC E NO JIU JITSU_76697da6-0077-4df2-a84d-4e3c537733dd.mp4
+2025-04-11 09:37:22,806 [INFO] Arquivo downloads\MARCUS BUCHECHA REVELA TUDO SOBRE POSSÍVEL FUTURO NO UFC E NO JIU JITSU_76697da6-0077-4df2-a84d-4e3c537733dd.mp4 enviado com sucesso como MARCUS_BUCHECHA_REVELA_TUDO_SOBRE_POSS_VEL_FUTURO_NO_UFC_E_NO_JIU_JITSU_76697da6-0077-4df2-a84d-4e3c537733dd.mp4.
+2025-04-11 09:37:22,807 [INFO] 192.168.143.21 - - [11/Apr/2025 09:37:22] "POST /download HTTP/1.1" 200 -
+2025-04-11 09:37:37,350 [INFO] Arquivos temporários limpos com sucesso.
+2025-04-11 09:37:37,350 [INFO] 192.168.143.21 - - [11/Apr/2025 09:37:37] "POST /cleanup HTTP/1.1" 200 -
+2025-04-11 09:37:38,399 [INFO] 192.168.143.21 - - [11/Apr/2025 09:37:38] "GET / HTTP/1.1" 200 -
+2025-04-11 09:37:38,411 [INFO] Cliente desconectado: mCI71TIEDGqUWlBPAAAH
+2025-04-11 09:37:38,411 [INFO] 192.168.143.21 - - [11/Apr/2025 09:37:38] "GET /socket.io/?EIO=4&transport=websocket&sid=V0FBs-hb-4nslkN-AAAG HTTP/1.1" 200 -
+2025-04-11 09:37:38,428 [INFO] 192.168.143.21 - - [11/Apr/2025 09:37:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-04-11 09:37:38,445 [INFO] 192.168.143.21 - - [11/Apr/2025 09:37:38] "GET /socket.io/?EIO=4&transport=polling&t=rvda3wzu HTTP/1.1" 200 -
+2025-04-11 09:37:38,489 [INFO] Cliente conectado: HxGHvu_ltYWenDzvAAAJ
+2025-04-11 09:37:38,490 [INFO] 192.168.143.21 - - [11/Apr/2025 09:37:38] "GET /socket.io/?EIO=4&transport=polling&t=rvdaziwh&sid=Q6yXIkQCnghK-gCTAAAI HTTP/1.1" 200 -
+2025-04-11 09:37:38,490 [INFO] 192.168.143.21 - - [11/Apr/2025 09:37:38] "POST /socket.io/?EIO=4&transport=polling&t=rvdayl1y&sid=Q6yXIkQCnghK-gCTAAAI HTTP/1.1" 200 -
